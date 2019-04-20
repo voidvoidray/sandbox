@@ -5,3 +5,4 @@ for pull test
 hey world!!!
 
 for conflict test 11111111
+CONFLICT 222
