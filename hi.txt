@@ -12,3 +12,4 @@ CONFLICT 666666
 
 void_test2 fetch test
 commit: write current index status
+issue3 issue3 issue3 issue3 issue3 issue3
