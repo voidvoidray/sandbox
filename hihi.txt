@@ -6,3 +6,4 @@ A file for git rm test
 1
 2
 3
+456
