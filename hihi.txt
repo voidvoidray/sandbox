@@ -1,1 +1,5 @@
 A file for git rm test
+9
+8
+7
+6
