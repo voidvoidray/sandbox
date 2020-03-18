@@ -3,3 +3,6 @@ A file for git rm test
 8
 7
 6
+1
+2
+3
