@@ -7,3 +7,4 @@ A file for git rm test
 2
 3
 456
+hihi
